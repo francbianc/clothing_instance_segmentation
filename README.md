@@ -4,7 +4,7 @@ MSc in Data Science and Business Analytics, Bocconi University
 Supervisor: Francesco Grossetti
 
 <p align="center">
-  <img src="https://github.com/francbianc/Clothing_Instance_Segmentation/blob/main/tools/sample4.png" width="100" height="200" alt="Image"/>
+  <img src="https://github.com/francbianc/Clothing_Instance_Segmentation/blob/main/tools/sample4.png" width="1000" height="200" alt="Image"/>
 </p>
 
 
@@ -104,4 +104,4 @@ Given images and annotations, some metrics have been computed for each set to as
 
 - **```detectron2.ipynb```**: contains code to understand how to install and use Detectron2 library, including how to train, evaluate and make inference with Mask R-CNN
 - **```train_evaluate.py```**: contains code to train and evaluate Mask R-CNN, given a train, validation and test set (transfer learning is performed)
-- **```experiments.ipynb```**: contains code to access the training and evaluation metrics
+- **```experiments.ipynb```**: contains code to access the training and evaluation metrics, for each experiment
