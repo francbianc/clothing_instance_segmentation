@@ -4,7 +4,7 @@ MSc in Data Science and Business Analytics, Bocconi University
 Supervisor: Francesco Grossetti
 
 <p align="center">
-  <img src="https://github.com/francbianc/Clothing_Instance_Segmentation/blob/main/tools/sample4.png" width="1200" height="300" alt="Image"/>
+  <img src="https://github.com/francbianc/Clothing_Instance_Segmentation/blob/main/tools/sample4.png" width="100" height="200" alt="Image"/>
 </p>
 
 
@@ -30,7 +30,7 @@ Then install [Detectron2](https://github.com/facebookresearch/detectron2), accor
 For example, on a Linux device with CUDA 11.3, run the following lines to install PyTorch and Detectron2: 
 ```
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
-python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html
+python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
 ```
 
 ## Pipeline
