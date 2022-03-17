@@ -4,7 +4,7 @@ MSc in Data Science and Business Analytics, Bocconi University
 Supervisor: Francesco Grossetti
 
 <p align="center">
-  <img src="https://github.com/francbianc/Clothing_Instance_Segmentation/blob/main/tools/sample4.png" width="1000" height="300" alt="Image"/>
+  <img src="https://github.com/francbianc/Clothing_Instance_Segmentation/blob/main/tools/sample4.png" width="950" height="300" alt="Image"/>
 </p>
 
 
