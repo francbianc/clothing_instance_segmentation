@@ -3,7 +3,7 @@ This folder contains for each training experiment two files:
 - ```model_config.yaml```: Mask R-CNN configuration 
 - ```metrics.json```: training and evaluation metrics  
 
-The weights of Mask R-CNN obtained by each experiment are available upon request. 
+The weights of Mask R-CNN, obtained by each experiment, are available upon request. 
 
 Here the specifics of each experiment: 
 |Exp.| Set | # images | # iterations | LR decrease | Train Loss | Val Loss | Val mAP | Test mAP |
